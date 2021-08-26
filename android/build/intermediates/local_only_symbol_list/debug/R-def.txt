@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+drawable hotspot
+drawable ic_marker
+drawable user_compass_background
+drawable user_compass_triangle
+id mapView
+layout activity_main
+mipmap ic_shadow_background
+mipmap ic_triangle
